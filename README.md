@@ -4,7 +4,7 @@ seamless API integration, focused on performance and user experience, collaborat
 closely with backend teams and accurate Figma implementation.
 </p>
 
-### 💼 Frontend Development Services
+### ⚡ What am I used to?
 - Review UI/UX designs with designers to ensure practical, developer-friendly, real-world implementation.
 - Implement pixel-perfect user interfaces by accurately converting designs into high-quality frontend code using modern frameworks and libraries.
 - Develop frontend applications using React, Next.js, Vue, Nuxt.js, TypeScript, Tailwindcss and modern UI ecosystems.
