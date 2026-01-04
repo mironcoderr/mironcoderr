@@ -7,7 +7,6 @@
 - Optimize frontend performance with lazy loading, code splitting, and efficient state management.
 - Transform static UI into fully functional, business-ready frontend applications with complete user flows.
 - Collaborate effectively with designers, backend developers, and product teams using Git-based workflows.
-- Manage and contribute to team-based frontend development while maintaining code quality and delivery timelines.
 - Deploy frontend projects to platforms such as Vercel, Netlify, and other cloud-based hosting services.
 - Take full ownership of frontend projects handling development from planning to production deployment.
 
