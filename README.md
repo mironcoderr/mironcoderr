@@ -4,6 +4,12 @@ seamless API integration, focused on performance and user experience, collaborat
 closely with backend teams and accurate Figma implementation.
 </p>
 
+### 🧩 Which projects am I expert in?
+- Software Company Management & Product Distribution Platform 
+- Single & Multi-Vendor Grocery, Fashion & Multipurpose E-Commerce Platforms 
+- Single & Multi-Vendor Restaurant Food Ordering & Delivery Platforms
+- Admin dashboards with interactive charts and real-time data implementation.
+
 ### ⚡ What am I used to?
 - Review UI/UX designs with designers to ensure practical, developer-friendly, real-world implementation.
 - Convert designs into pixel-perfect, mobile-first, fully responsive interfaces using modern frameworks.
